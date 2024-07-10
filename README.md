@@ -24,3 +24,5 @@ pip install -r requirements.txt
 
 # Exécution du script : Une fois les dépendances installées, exécutez le script bot_cdiscount5.py => python bot_cdiscount5.py
 
+
+
